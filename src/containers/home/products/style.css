@@ -1,0 +1,10 @@
+.productImg{
+    width: 100px;
+    height:100px;
+    overflow:hidden;
+}
+.productImg img{
+    max-width:100%;
+    max-height:100%;
+    object-fit:contain;
+}
